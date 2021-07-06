@@ -1,0 +1,24 @@
+.title{
+    background-color: #f6f4f5;
+    padding: 8px 16px;
+    border-radius: 4px 4px 0 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.widget{
+    padding:42px;
+    height:'95em';
+    position:absolute;
+    top:'28em';
+    display: block;
+    justify-content: center;
+    background: #f2f2f2;;
+    border-radius: 8px;
+    width: 464px;
+    font-family: "Open Sans", sans-serif, Helvetica, Arial;
+    font-size: 16px;
+    z-index:2;
+    font-weight: normal;
+}

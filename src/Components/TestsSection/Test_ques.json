@@ -1,0 +1,7 @@
+{
+    "react":[
+        {"name":"what is react","answers":["language","package","javascript","browser"], "rans":"package", "score":2},
+        {"name":"what is node","answers":["language","package","environment","browser"], "rans":"environment", "score":2},
+        {"name":"what is mongo","answers":["language","db","javascript","browser"], "rans":"db", "score":2}
+    ]
+}
