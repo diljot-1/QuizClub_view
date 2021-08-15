@@ -7,15 +7,7 @@ export default function GlobalHeaderContainer(props) {
         
         return (
         <>
-            <HeaderContainer>
-               
-                <div >
-                    <span style={{padding:'0.5em' , fontSize:'2.3em',top:'0.05em', textAlign:'center'}}><b>Test Engine</b></span>
-                     {props.loadSignUpButton &&  <Button onClick={props.loadSignUpComponent} style={{left:'75em', top: '0.01em'}} variant="contained" color="secondary">Sign Up</Button>}
-                     
-                 </div>
-                
-            </HeaderContainer>
+            
         </>
     )
 }

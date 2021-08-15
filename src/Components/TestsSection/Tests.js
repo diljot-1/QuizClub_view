@@ -4,7 +4,6 @@ import {colours} from './colours'
 import MyStuffContainer from '../UserInfo/MyStuffContainer'
 import UserInfoAll from '../UserInfo/UserInfoAll'
 import Modal from 'react-bootstrap/Modal'
-
 import {Link} from 'react-router-dom'
 import testObjectArray from './test_details.json'
 import Card from 'react-bootstrap/Card'
